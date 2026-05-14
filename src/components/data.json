@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Начинаем с простенького. Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. Какого?",
+    "answers": [
+      "../src/assets/answers/Answer1.png",
+      "../src/assets/answers/Answer2.png",
+      "../src/assets/answers/Answer3.png",
+      "../src/assets/answers/Answer4.png"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Что из этого является видеокартой?",
+    "answers": [
+      "../src/assets/answers/procesor.jpg",
+      "../src/assets/answers/videokarta.jpg",
+      "../src/assets/answers/jd.jpg",
+      "../src/assets/answers/bp.jpg"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Какое самое большое млекопитающее?",
+    "answers": [
+      "../src/assets/answers/slon.jpg",
+      "../src/assets/answers/straus.jpg",
+      "../src/assets/answers/kashalot.jpg",
+      "../src/assets/answers/kit.jpg"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Где изображена ручка?",
+    "answers": [
+      "../src/assets/answers/karandash.jpg",
+      "../src/assets/answers/flom.jpg",
+      "../src/assets/answers/ruchka.jpg",
+      "../src/assets/answers/last.jpg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Где изображён Mercedes?",
+    "answers": [
+      "../src/assets/answers/mers.jpg",
+      "../src/assets/answers/bmw.jpg",
+      "../src/assets/answers/toyota.jpg",
+      "../src/assets/answers/honda.jpg"
+    ],
+    "correct": 0
+  }
+]
